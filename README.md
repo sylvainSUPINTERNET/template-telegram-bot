@@ -9,7 +9,7 @@ https://web.telegram.org/k/#@BotFather
 
 ```` bash 
 # Tunnel to expose local
-ngrok http 3000 # => Use this URL to populate .env SERVER_URL
+npx ngrok http 3000 # => Use this URL to populate .env SERVER_URL
 
 # Edit .env 
 
